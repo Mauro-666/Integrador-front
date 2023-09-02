@@ -2,13 +2,11 @@ nav{
     height: 0;
 }
 .navbar{
-    background-color: black;
-    justify-content: space-evenly;
+    background-color: whitesmoke;
 }
 .nav1{
     font-family: 'Righteous', cursive;
     width: 100%;
-    
 }
 
 nav ul{
@@ -24,7 +22,7 @@ nav ul li{
 }
 
 nav ul li a {
-    color: darkgoldenrod;
+    color: black;
     text-decoration: none;
     padding: 3px 6px;
     display: block;
@@ -32,7 +30,7 @@ nav ul li a {
 }
 
 nav ul li a:hover{
-    /* background-color: rgba(0, 0, 0, 0.3); */
+    color: red;
     text-decoration: underline overline};
 
 
@@ -40,6 +38,7 @@ nav ul li a.activo{
     background-color: #4c76a5;
 }
 .nav1{
+    height: 10px;
     text-align: center;
     align-items: center;
 }

@@ -4,20 +4,20 @@ const Footer = (props)=> {
     return(
         <div className='footer'>
             <div class="seccion-oscura d-flex flex-column align-items-center justify-content-center">
-            <img src="img/plantilla-vector-logotipo-carrito-compras-azul_591497-165.avif" width="100" alt="logo"></img>
-            <h1 class="titulo">Algun titulo</h1>
+            <img src="img/logoFooter.jpg" width="100" alt="logo"></img>
+            <img src='../img/arlequinLogo.jpg'></img>
         {/* <!-- Redes Sociales --> */}
         <div class="iconos-redes-sociales d-flex flex-wrap align-items-center justify-content-center">
-            <a href="https:" target="_blank" rel="noopener noreferrer">
+            <a href="http://twiter.com/" target="_blank" rel="noopener noreferrer">
                 <i class="bi bi-twitter"></i>
             </a>
-            <a href="https:" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
                 <i class="bi bi-github"></i>
             </a>
-            <a href="https:" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
                 <i class="bi bi-instagram"></i>
             </a>
-            <a href="https:" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
                 <i class="bi bi-linkedin"></i>
             </a>
             <a href="mailto:" target="_blank" rel="noopener noreferrer">

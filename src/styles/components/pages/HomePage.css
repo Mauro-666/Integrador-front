@@ -1,0 +1,23 @@
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: top;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+.categoria{
+    font-size: 15px;
+}
+.card-group{
+    padding: 10px;
+}
+
+.card:hover{
+    background: rgb(201, 219, 220);
+    
+    cursor: pointer;
+}
+.material-symbols-outlined{
+
+}
